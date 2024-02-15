@@ -16,3 +16,8 @@ That's it
 ```
 python main.py
 ```
+
+## USAGE
+<p align="center">
+<img width=800 src="demo.svg">
+</p>
