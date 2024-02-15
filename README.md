@@ -1,7 +1,7 @@
 # bashGPT
-PRE-REQUISITES
+## PRE-REQUISITES
 - Gemini API_KEY
-SETUP
+## SETUP
 - create a `.env` file and add the following to it
   ```
   GEMINI_API_KEY="your-api-key"
@@ -12,7 +12,7 @@ SETUP
   ```
 That's it
 
-RUNNING
+## RUNNING
 ```
 python main.py
 ```
