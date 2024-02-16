@@ -1,4 +1,4 @@
-from llama_index.llms import Gemini
+from llama_index.llms.gemini import Gemini
 from rich.console import Console
 from rich.markdown import Markdown
 import os
